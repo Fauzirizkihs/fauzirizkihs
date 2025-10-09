@@ -2,6 +2,9 @@
 <p align="center">
   <img src="https://i.ibb.co/QbppRkX/banner-github.png" alt="Banner" width="100%">
 </p>
+<div align="center">
+👋 Halo, Saya [Nama Anda]
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;Creative+Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
 
 <!-- Intro -->
 <h1 align="center">👋 Hi, I'm <span style="color:#4FC3F7;">Fauzi Rizky HS</span></h1>
