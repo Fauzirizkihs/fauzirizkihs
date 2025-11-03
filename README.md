@@ -4,7 +4,7 @@
 </p>
 <!-- Intro -->
 <h1 align="center">👋 Hi, I'm <span style="color:#4FC3F7;">Fauzi Rizky HS</span></h1>
-<h3 align="center">💻 Mahasiswa Teknik Informatika | 🌐 Web Developer Enthusiast | 🇮🇩 Indonesia</h3>
+<h3 align="center">💻 Mahasiswa Teknik Informatika | 🌐 Apa boleh asalkan halal | 🇮🇩 Indonesia</h3>
 
 <!-- Social Media -->
 <p align="center">
