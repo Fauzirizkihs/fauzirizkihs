@@ -20,33 +20,10 @@
 
 ## 🧠 About Me
 - 🌱 Mahasiswa **Teknik Informatika** yang sedang mendalami **Web Development** dan **Database Systems**  
-- 🎯 Bercita-cita menjadi atau **Web Developer profesional**  atau **Cybersecurity **
+- 🎯 Bercita-cita menjadi **Web Developer profesional**  atau **Cybersecurity **
 - ⚽ Hobi bermain dan menonton sepak bola  
 - 🚀 Suka belajar hal baru & eksplor teknologi modern
 
 ---
 
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql,java,vscode,git,github" alt="Tech Stack" />
-</p>
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fauzirizkyhs&show_icons=true&theme=tokyonight" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzirizkyhs&layout=compact&theme=tokyonight" height="165" alt="Top Languages"/>
-</p>
-
----
-
-## 🌀 Daily Motivation
-> “Success doesn’t come from what you do occasionally, it comes from what you do consistently.”  
-> <p align="right">— Anonymous</p>
-
----
-
-<p align="center">
-  <b>✨ Let's build something amazing together ✨</b>
-</p>
